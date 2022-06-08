@@ -4,9 +4,9 @@ https://keybase.io/vpavic
 
 I hereby claim:
 
-  * I am an admin of https://vpavic.io
+  * I am an admin of https://vedranpavic.com
   * I am vpavic (https://keybase.io/vpavic) on keybase.
-  * I have a public key ASCRL98S_nwuxov6VSJOPZT7V_vZkmkPU7hZ0_SZ3ri2UAo
+  * I have a public key ASAvQRMYV8ymGx8EZXM1jpj_lfTfqJquZKn7Q5PJQOXKvQo
 
 To do so, I am signing this object:
 
@@ -15,19 +15,19 @@ To do so, I am signing this object:
     "key": {
       "eldest_kid": "0101e901c3e146e72b59e6e7ac8cf4ba4f8c7bce667e71dbbe00ec9f00a3f865d7600a",
       "host": "keybase.io",
-      "kid": "0120912fdf12fe7c2ec68bfa55224e3d94fb57fbd992690f53b859d3f499deb8b6500a",
+      "kid": "01202f41131857cca61b1f046573358e98ff95f4dfa89aae64a9fb4393c940e5cabd0a",
       "uid": "ff9231efb5cc7fe022dcced520460b19",
       "username": "vpavic"
     },
     "merkle_root": {
-      "ctime": 1633714382,
-      "hash": "a96e9f3dfb01b579ae5e2573d882acb8b2785da4d096fff897e92541dc64e49977eef269d2d3270c2a0a683e35bccb9004fc82c810591c034d23632280e28b50",
-      "hash_meta": "8ffb341bfe8ceb9a21b059c20fb13d5ea64a31231158b60514cc6c6ed7dd7938",
-      "seqno": 20944146
+      "ctime": 1654723150,
+      "hash": "81e2202eb74053922f7e7dd8f284b34703136fa086faf9a632bb6cfffed013b08c4202f167ca367953046b3b5cad43ac4d9bbb4919adf08f569c79298c0e88fb",
+      "hash_meta": "460655e290917a5f419bd0d39e893d71690556fe33297538f14ae78d3c32531c",
+      "seqno": 22638870
     },
     "service": {
-      "entropy": "GafZFQjs6jmxqp6FFuss1tN9",
-      "hostname": "vpavic.io",
+      "entropy": "8iYWTYrjN5vHg4dHMm7zifJc",
+      "hostname": "vedranpavic.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -35,18 +35,18 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.8.1"
+    "version": "5.9.0"
   },
-  "ctime": 1633714398,
+  "ctime": 1654723168,
   "expire_in": 504576000,
-  "prev": "5ddd394f8c0612a9c7de45a321f286d1c8f60148d66175de997ce6c2750111af",
-  "seqno": 44,
+  "prev": "1eea9105fb83785fad80a98ef7333d3f33ee1436ac187842f709dfa4b8278472",
+  "seqno": 51,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkS/fEv58LsaL+lUiTj2U+1f72ZJpD1O4WdP0md64tlAKp3BheWxvYWTESpcCLMQgXd05T4wGEqnH3kWjIfKG0cj2AUjWYXXemXzmwnUBEa/EINw74wageb+YEEzD0yXVRiwBtTfjFwlhHu40SJ/d6VfLAgHCo3NpZ8RAkL3dcmhr6jOFgoUNLYzuvLR924vWJvHxng68l4QOPVyjolyc4ctu3m/jpHWsQuWtrIo5yE4hCduXioFYzQo0DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKRci7qtl8cweTI1EaMg3g/ovZamBN+INXeZKUrj53TEo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL0ETGFfMphsfBGVzNY6Y/5X036iarmSp+0OTyUDlyr0Kp3BheWxvYWTESpcCM8QgHuqRBfuDeF+tgKmO9zM9PzPuFDasGHhC9wnfpLgnhHLEIGXUJEM+GPxNuPbPCDK7RXJ7KxA1bhbdyVppzvk1vVotAgHCo3NpZ8RAv0V2NMmQ2kDlwW/fpjyxprVqAKSw9xD8JoVw8na948jGmT2i1OaJAbP3m7qnVjUrHrwoE4IsGT2D/6ep+GzHAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBU/uN/niGxl/aC23UPEp9vLls3IHtg80PE2MH2TSftdo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
